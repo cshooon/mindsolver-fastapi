@@ -1,6 +1,6 @@
 # mindsolver-fastapi
 
-[project overview](https://github.com/MindSolver)
+[project overview](https://github.com/MindSolver)
 
 [demo](https://www.youtube.com/watch?v=uxvyrWQQVKQ)
 
