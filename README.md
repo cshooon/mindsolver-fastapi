@@ -1,5 +1,9 @@
 # mindsolver-fastapi
 
+[app](https://github.com/MindSolver)
+
+[demo](https://www.youtube.com/watch?v=uxvyrWQQVKQ)
+
 ## Overview
 
 The backend of the Diary Creation Application is built using FastAPI and integrates with the GPT-4 API provided by OpenAI. It is designed to receive user inputs through a RESTful API, process these inputs to generate personalized diary entries, and manage user data efficiently.
